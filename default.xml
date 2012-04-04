@@ -36,7 +36,8 @@
   <project path="device/samsung/p5-common" name="CyanogenMod/android_device_samsung_p5-common" />
   <project path="device/samsung/toro" name="CyanogenMod/android_device_samsung_toro" />
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
-  <project path="device/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" />
+  <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" />
+  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" />
   <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
